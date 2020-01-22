@@ -10,4 +10,4 @@ This game is about getting a random number and trying our luck and guess to stop
 
 So basically, “Me” represents a random number.<br>
 
-<img src="https://drive.google.com/open?id=19Te1ubkTFDeE7B1yH4MuLF-ARMoFQtvf">
+![Main Screen](https://drive.google.com/open?id=19Te1ubkTFDeE7B1yH4MuLF-ARMoFQtvf)
